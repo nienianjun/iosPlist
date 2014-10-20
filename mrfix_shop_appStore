@@ -1,0 +1,40 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://vps.shunda365.com:88/xl/kxxs/appDownloads/MRFIX_APPSTORE.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.mrfix.cn/appDownloads/mrfix_shop.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.mrfixshop.MRFIX</string>
+               <key>bundle-version</key>
+               <string>2.0.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>App Subtitle</string>
+               <key>title</key>
+               <string>快修先生-店铺端-appStore版</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
