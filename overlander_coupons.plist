@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://vps.shunda365.com:88/xl/vipmall/VIPMall.ipa</string>
+                   <string>http://app.yingxin360.com/epass/ios.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,13 +19,13 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://vps.shunda365.com:88/xl/vipmall/icon.jpg</string>
+                   <string>http://app.yingxin360.com/epass/icon.png</string>
                </dict>
            </array>
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.shundavip.VIPMall</string>
+               <string>com.vizz.overlander.coupons</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
@@ -33,7 +33,7 @@
                <key>subtitle</key>
                <string>App Subtitle</string>
                <key>title</key>
-               <string>商城</string>
+               <string>Overlander Coupons</string>
            </dict>
        </dict>
    </array>
